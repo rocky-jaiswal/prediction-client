@@ -3,7 +3,6 @@ prediction-client
 =================
 
 Sample prediction client for prediction.io
-<<<<<<< HEAD
 
 This was a simple experiment to play with the PredictionIO API
 
